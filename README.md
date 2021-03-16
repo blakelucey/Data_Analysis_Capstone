@@ -1,8 +1,7 @@
 # Data_Analysis_Capstone
 
-### This project was done in jupyter notebooks, to open it you will need to have jupyter notebooks installed. 
+## This project was done in jupyter notebooks, to open it you will need to have jupyter notebooks installed. 
 
-Codeacademy Data Analysis Capstone
 
 
 ### For your reference:
