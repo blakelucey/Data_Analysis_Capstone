@@ -7,4 +7,4 @@ Codeacademy Data Analysis Capstone
 
 ### For your reference:
 
-codecademySQL.py & codecademySQL.pyc are files that are imported into the jupyter notebook so that SQL could be used with the project. 
+codecademySQL.py & codecademySQL.pyc are codeacademy libraries that enable SQL to be imported into the jupyter notebook. 
